@@ -1,0 +1,5 @@
+Активация Win11
+https://docs.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys
+slmgr/ipk "W269N-WFGWX-YVC9B-4J6C9-T83GX"
+slmgr /skms kms.digiboy.ir
+slmgr /ato
